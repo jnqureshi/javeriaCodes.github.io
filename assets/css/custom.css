@@ -3,6 +3,10 @@
     font-weight: bold;
 }
 
+h6 {
+    margin-bottom: 0px;
+}
+
 .headings {
     text-align: center;
 }
